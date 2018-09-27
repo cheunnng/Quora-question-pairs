@@ -1,2 +1,2 @@
 # Quora-question-pairs
-To classify the given question pairs are duplicated or not
+To classify whether the given question pairs are duplicated or not
